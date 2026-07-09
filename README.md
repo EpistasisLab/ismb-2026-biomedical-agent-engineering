@@ -35,7 +35,7 @@ uv sync
 Or install directly:
 
 ```bash
-pip install anthropic openai langchain langgraph langchain-anthropic langchain-openai mcp fastmcp biopython pydantic redlines deepagents langchain_mcp_adapters
+pip install anthropic openai langchain langgraph langchain-anthropic langchain-openai mcp fastmcp biopython pydantic redlines deepagents langchain_mcp_adapters openai-agents
 ```
 
 ### API keys

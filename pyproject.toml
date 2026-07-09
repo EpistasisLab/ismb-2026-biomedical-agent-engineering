@@ -1,0 +1,22 @@
+[project]
+name = "ismb-2026-biomedical-agent-engineering"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.116.0",
+    "biopython>=1.87",
+    "deepagents>=0.6.12",
+    "fastmcp>=3.4.4",
+    "ipykernel>=7.3.0",
+    "langchain>=1.3.12",
+    "langchain-anthropic>=1.4.8",
+    "langchain-mcp-adapters>=0.3.0",
+    "langchain-openai>=1.3.4",
+    "langgraph>=1.2.8",
+    "mcp>=1.28.1",
+    "openai>=2.44.0",
+    "pydantic>=2.13.4",
+    "redlines>=0.6.1",
+]

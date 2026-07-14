@@ -77,3 +77,11 @@ jupyter lab
 |------|---------|
 | `server_pubmed.py` | Custom FastMCP server exposing PubMed search, abstract fetch, and full-text retrieval as MCP tools. Run with `python server_pubmed.py` (stdio transport). |
 | `.env.example` | API key configuration (not committed — create your own .env from the example). |
+
+---
+
+## Contacts
+
+For any suggestions and feedback to improve the tutorial, please feel free to submit a GitHub issue.
+
+Should you have any further questions, feel free to reach out to Binglan Li (<bignlan.li@cshs.org>), Philip Freda (<Philip.Freda@csmc.edu>), or Jason H. Moore (<Jason.Moore@csmc.edu>).
